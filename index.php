@@ -61,11 +61,11 @@
     <a href="login.php"><img src="gbr1.png" style="height: 170px; width: 1230px;"></a>
 
     <ul class="navigasi">
-        <li><a href="nike.php">NIKE</a></li>
-        <li><a href="#">JORDAN</a></li>
-        <li><a href="#">ADIDAS</a></li>
-		<li><a href="#">NB</a></li>
-        <li><a href="#">PUMA</a></li>
+        <li><a href="nike.php">TESLA</a></li>
+        <li><a href="#">CHEVROLET</a></li>
+		<li><a href="#">MERCEDES</a></li>
+        <li><a href="#">BMW</a></li>
+        <li><a href="#">FERARI</a></li>
 
     </ul>
 	<div class="gambar-kiri">
