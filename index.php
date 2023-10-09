@@ -75,7 +75,7 @@
     
     <div class="gambar-kanan">
         <img src="image 4.png" alt="Gambar Kanan">
-        <p><strong>Air Force 1 '07</strong></p>
+        <p><strong>TESLA CYBERTRUNK SILVER MYR-2000~14000</strong></p>
     </div>
 </body>
 </html>        
