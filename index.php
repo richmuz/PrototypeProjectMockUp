@@ -70,7 +70,7 @@
     </ul>
 	<div class="gambar-kiri">
         <img src="gbr2.png" alt="Gambar Kiri">
-        <p><strong>Air Force 1 'Special Milano'</strong></p>
+        <p><strong>TESLA MODEL X GRAY MYR-1500~8000</strong></p>
     </div>
     
     <div class="gambar-kanan">
