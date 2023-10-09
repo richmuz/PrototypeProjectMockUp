@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>HZ</title>
+    <title>CARDEAL</title>
 	<style>
    body{
     background-color:white;
@@ -58,7 +58,7 @@
 <body>	
 
 	<div class="header">
-    <a href="login.php"><img src="gbr1.png" style="height: 170px; width: 1230px;"></a>
+    <a href="login.php"><img src="nav.png" style="height: 170px; width: 1230px;"></a>
 
     <ul class="navigasi">
         <li><a href="cardeal.php">TESLA</a></li>
@@ -69,13 +69,13 @@
 
     </ul>
 	<div class="gambar-kiri">
-        <img src="gbr2.png" alt="Gambar Kiri">
+        <img src="tesla1.png" alt="Gambar Kiri">
         <p><strong>TESLA MODEL X GRAY MYR-1500~8000</strong></p>
     </div>
     
     <div class="gambar-kanan">
-        <img src="image 4.png" alt="Gambar Kanan">
-        <p><strong>TESLA CYBERTRUNK SILVER MYR-2000~14000</strong></p>
+        <img src="bmw1.png" alt="Gambar Kanan">
+        <p><strong>BMW M4 GREEN LATERN MYR-2500~20000</strong></p>
     </div>
 </body>
 </html>        
