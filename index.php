@@ -1,0 +1,81 @@
+<html>
+<head>
+    <title>HZ</title>
+	<style>
+   body{
+    background-color:white;
+}
+.header{
+    text-align:center;
+}
+.navigasi {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.navigasi li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.navigasi a {
+    text-decoration: none;
+    color: #333; /* Warna teks asal */
+    padding: 5px 10px;
+    border: 1px solid #333; /* Garis sempadan asal */
+    background-color: #fff; /* Latar belakang putih */
+    transition: all 0.3s; /* Animasi perubahan */
+}
+
+.navigasi a:hover {
+    background-color: gray; /* Warna kelabu apabila hover */
+    border: 1px solid gray; /* Garis sempadan kelabu apabila hover */
+}
+
+
+.gambar-kiri, .gambar-kanan {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.gambar-kiri img, .gambar-kanan img {
+    max-width: 73%;
+    height: auto;
+}	
+
+.gambar-kiri p, .gambar-kanan p {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+        </style>
+</head>
+<body>	
+
+	<div class="header">
+    <a href="login.php"><img src="gbr1.png" style="height: 170px; width: 1230px;"></a>
+
+    <ul class="navigasi">
+        <li><a href="nike.php">NIKE</a></li>
+        <li><a href="#">JORDAN</a></li>
+        <li><a href="#">ADIDAS</a></li>
+		<li><a href="#">NB</a></li>
+        <li><a href="#">PUMA</a></li>
+
+    </ul>
+	<div class="gambar-kiri">
+        <img src="gbr2.png" alt="Gambar Kiri">
+        <p><strong>Air Force 1 'Special Milano'</strong></p>
+    </div>
+    
+    <div class="gambar-kanan">
+        <img src="image 4.png" alt="Gambar Kanan">
+        <p><strong>Air Force 1 '07</strong></p>
+    </div>
+</body>
+</html>        
