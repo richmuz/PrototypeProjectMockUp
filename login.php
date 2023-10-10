@@ -3,14 +3,31 @@
     <style>
 body {
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .login-container {
-    display: flex;  
+    display: flex;
+    background-color: #F77D11; /* Warna oren */
+    height: 100vh;
+}
+
+.login-form {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff; /* Warna putih */
+}
+
+h2 {
+    margin-bottom: 20px;
 }
 
 form {
-    margin-left:900px;
     text-align: left;
 }
 
@@ -28,7 +45,7 @@ input {
 }
 
 button {
-    background-color: #000; /* Warna hitam */
+    background-color: #F77D11; /* Warna oren */
     color: #fff; /* Warna putih */
     padding: 10px 20px;
     border: none;
@@ -36,49 +53,38 @@ button {
     cursor: pointer;
 }
 
-
+.login-image {
+    flex: 1;
+    background-image: url('gambar.jpg'); /* URL gambar */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin-top: 15%;
+}
  </style>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-   
+    <title>Paparan Login</title>
+    
 </head>
 <body>
-    <div class="image">
-            <img src="1.jpg" width="40%" >
-        </div>
     <div class="login-container">
-        
-        <div class="form">
-            <form>  
-
-            <div id="id01" class="modal">
-            
-             <div class="container">
-                <h1>Sign Up</h1>
-                <p>Please fill in this form to create an account.</p>
-                <hr>
-                <b>Email</b>
-                <input type="text" placeholder="Enter Email" name="email" >
-
-                <b>Password</b>
-                <input type="password" placeholder="Enter Password" name="psw" >
-
-               <b>Repeat Password</b>
-                <input type="password" placeholder="Repeat Password" name="psw-repeat" >
-      
-                <button type="submit" class="signupbtn">Sign Up</button>
-      </div>
-    </div>
-  </form>
-</div>
-
-
+        <div class="login-form">
+            <h2>LOG IN </h2>
+            <form>
+                <label for="username">Nama Pengguna:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="password">Kata Laluan:</label>
+                <input type="password" id="password" name="password" required>
+                <a button type="submit" href="index.php" >Log Masuk></a></button>
             </form>
-
         </div>
-    
-
+        <div class="login-image">
+        <img src="logo2.png" alt="Gambar" >
+        </div>
+    </div>
 </body>
 </html>
