@@ -70,12 +70,14 @@
     </ul>
 	<div class="gambar-kiri">
         <img src="tesla1.png" alt="Gambar Kiri">
-        <p><strong>TESLA MODEL X GRAY MYR-1500~8000</strong></p>
+        <p><strong>TESLA MODEL X 
+            <br>SILVER</br>MYR-1500~8000
+            </strong></p>
     </div>
     
     <div class="gambar-kanan">
         <img src="bmw1.png" alt="Gambar Kanan">
-        <p><strong>BMW M4 GREEN LATERN MYR-2500~20000</strong></p>
+        <p><strong>BMW M4 GREEN <br>LATERN </br>MYR-2500~20000</strong></p>
     </div>
 </body>
 </html>        
