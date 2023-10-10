@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>HZ</title>
+    <title>CARDEAL</title>
 	<style>
 
 body{
