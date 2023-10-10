@@ -61,7 +61,7 @@
     <a href="login.php"><img src="nav.png" style="height: 170px; width: 1230px;"></a>
 
     <ul class="navigasi">
-        <li><a href="cardeal.php">TESLA</a></li>
+        <li><a href="tesla.php">TESLA</a></li>
         <li><a href="#">CHEVROLET</a></li>
 		<li><a href="#">MERCEDES</a></li>
         <li><a href="#">BMW</a></li>
