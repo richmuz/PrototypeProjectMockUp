@@ -102,7 +102,7 @@ padding: 0px 15px ;
             <br>
 
             <!-- Gambar Kecil -->
-            <img src="tesla2.png" style="width: 100px;">
+            <img src="tesla2.1.png" style="width: 100px;">
             <br>
 
             <!-- Pilihan Butang untuk Memilih Nombor -->
